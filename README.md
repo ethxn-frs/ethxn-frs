@@ -27,7 +27,3 @@ Specialized in **robot automation development**, backend systems, and self-hoste
 
 📫 **Get in touch:**  
 [💼 LinkedIn](https://www.linkedin.com/in/ethan-fran%C3%A7ois-5b168a263) • [📧 Email](mailto:ethanfrancois@gmail.com)
-
----
-
-*"Code is the closest thing we have to magic."*
